@@ -176,7 +176,7 @@ function Dashboard() {
                         <MenuIcon />
                     </IconButton>
                     <Typography component="h1" variant="h6" color="inherit" noWrap className={classes.title}>
-                        WEBサイト制作管理ツール
+                        WEBサイト制作管理ツール（リモートリポジトリにコミットする）
                     </Typography>
                     <IconButton color="inherit">
                         <Badge badgeContent={2} color="secondary">
